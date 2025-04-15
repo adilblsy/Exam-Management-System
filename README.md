@@ -19,36 +19,9 @@ A web-based system developed as part of our B.Tech Mini Project at RIT Kottayam 
   - REST APIs  
   - JWT for authentication  
   - SMTP for email notifications  
-- **Deployment**: Railway.app  
-
-## Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/internal-exam-management.git
-cd internal-exam-management
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Start the backend server
-```bash
-node server.js
-```
-
-### 4. Open the frontend
-Open index.html in your browser to access the user interface.
-Make sure MongoDB is running locally or update the connection URI in server.js.
+- **Deployment**: Railway.app
 
 
 ## Project Report
 
 You can view the full project report [here](./Report.pdf).
-
-
-## License
-
-This project is open-source and available under the MIT License.
